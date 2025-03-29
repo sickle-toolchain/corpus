@@ -9,3 +9,5 @@
 ## Maps
 
 All files in the [maps](./maps/) directory are licensed under [CC BY-NC-ND 4.0](./LICENSE.txt)
+
+- [zm_desolo](https://gamebanana.com/mods/131688) by **[ao1]something** and **caid**
