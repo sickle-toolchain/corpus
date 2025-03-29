@@ -6,4 +6,6 @@
 <!-- TODO: add description -->
 </div>
 
-##
+## Maps
+
+All files in the [maps](./maps/) directory are licensed under [CC BY-NC-ND 4.0](./LICENSE.txt)
