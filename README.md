@@ -12,3 +12,4 @@ All files in the [maps](./maps/) directory are licensed under [CC BY-NC-ND 4.0](
 
 - [zm_desolo](https://gamebanana.com/mods/131688) by **[ao1]something** and **caid**
 - [kz_bhop_badg3s](https://gamebanana.com/mods/126445) by **Badgleslol**
+- [de_boston](https://gamebanana.com/mods/101250) by **Sk3tch**
