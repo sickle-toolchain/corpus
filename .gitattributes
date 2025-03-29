@@ -1,0 +1,1 @@
+maps/*.bsp filter=lfs diff=lfs merge=lfs -text
