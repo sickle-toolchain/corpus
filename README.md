@@ -3,7 +3,7 @@
     ~sickle-toolchain/</a>corpus
   </h3>
 
-<!-- TODO: add description -->
+Collection of maps for tests and benchmarks
 </div>
 
 ## Maps
